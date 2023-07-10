@@ -1,0 +1,168 @@
+
+.top{height:160px;padding:30px;background:#dad1ca}
+.top div{}
+.top div a{}
+.top div a img{max-width:150%;max-height:65%}
+.menu{text-align:center;border:2px solid red;margin:10px 0}
+.menu a{    
+    color: red;
+    padding: 15px 20px 15px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: arial;
+	display: inline-block;
+	   
+		}
+		.dropdown-submenu {
+  position: relative;
+}
+	.menu a:hover{background:rgb(0, 0, 0);color:white;text-decoration:none}
+	.shop{}
+	.shop p{font-size:20px;color:red;padding-top: 20px;}
+	.shop .gios a i{font-size: 25px;color:red;padding-top: 20px;padding-left:20px}
+	.user a i{font-size: 30px;color:red;padding-top: 20px;}
+	.title{
+        color: red;
+		padding: 10px ;
+		border-bottom:2px solid red;
+	}
+	.item:hover{background:#cfcdcd;text-decoration: none}
+	.item
+	{
+		background:#eceaea;
+		width: 22.7%;
+		border-radius:5px;
+		display:inline-block;padding:1%;
+		margin:1%;
+		line-height: 30px;
+	}
+	.item a img{max-width:100%;margin: 0px;border-radius: 5px;}
+	.item .name a
+	{font-size:100%;
+		color:black;
+		text-decoration:none;
+		font-weight:bold;
+	}
+	.item .boxprice{text-align: center;}
+	.item .boxprice span
+	{
+		display: inline-block;
+		width: 101%;
+	}
+	.boxprice span.price{}
+	.boxprice span.price strong{
+		font-size: 20px;
+		padding: 5px 0px 5px 0px;
+		display: inline-block;
+		color:red;
+	}
+	.boxprice span.price b
+	{
+	
+		color: black;
+		font-size: 15px;
+		padding: 3px;
+	}
+	.boxprice span.ban strong{font-size: 15px;color:black;}
+	h3{color:red;border-bottom:2px solid red}
+	p.tel{font-size:120%;}
+	p.mail{color:#607d8b;}
+	div .pt-5 a{color:#607d8b;text-decoration:none;font-size:18px}
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  -webkit-border-radius: 0 6px 6px 6px;
+  -moz-border-radius: 0 6px 6px;
+  border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #ccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+  border-left-color: #fff;
+}
+
+
+.home li a i{color:red;}
+.product-image .carousel-indicators{display: inline;}
+.product-image .carousel-indicators li {width:60px;height:60px;text-indent:-10%;;border:1px solid rgb(241, 255, 208);margin-top: 22px;}
+.product-image .carousel-indicators li img{max-width:100%;display: inline;margin-left:0px;}
+div.boxprice span{
+	color: red;
+    font-size: 30px;
+    font-weight: bold;
+    border-top: 5px double red;
+    border-bottom: 5px double red;
+	}
+div h4{padding:5px}
+	.describe{padding-top:20px}
+.btnorder{padding-top:30px}	
+.btnorder button
+	{
+		text-transform:uppercase;
+		font-weight:bold;
+		min-width:49%;
+		
+	}
+.ct{padding:5% 30%}
+.ct h2{text-align:center;text-transform:uppercase}
+.ct h5{text-align:center;font-size:25px;margin-top:30px}
+.ct p{font-size:20px}
+div .price strong{color:red;font-size:20px}
+.contact{
+padding: 2%;
+margin: 2% 0%;
+box-shadow: 0px 0px 10px 1px #dcdcdc;
+}
+.contact i{
+float: left;
+border: 1px solid red;
+color: red;
+width: 50px;
+height: 50px;
+text-align: center;
+padding: 13px 0px 0px 0px;
+font-size: 25px;
+border-radius: 50%;
+margin: 5px 10px 5px 0px;
+}
+.contact i:hover{color:#ffffff;background:red}
+.contact strong{display: block;font-size: 18px;}
+.contact span,.contact a
+{display: block;
+color: #444;
+text-decoration: none;
+font-size: 15px;
+}
+div h1{
+	font-size: 30px bold;
+	text-transform:uppercase;
+	text-align:center;
+	color:green;
+	
+}
+div span i{font-size: 30px;font-weight:bold }
+.row p{color:red}
+.row iframe{border:5px double red}
+.container-fluid{background:#dad1ca}
